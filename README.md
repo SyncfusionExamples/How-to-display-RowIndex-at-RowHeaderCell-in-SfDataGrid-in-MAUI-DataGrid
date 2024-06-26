@@ -11,7 +11,7 @@ Display RowIndex in the RowHeaderCell in SfDataGrid in .NET MAUI. You can use a 
 
 ```
  
- ![RowHeader.png](https://support.syncfusion.com/kb/agent/attachment/article/16352/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI0NTk0Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.vgJ67y3_4yKvN21U7XlW4GpH3OUFwtg3K2bAJBWdAAM)
+ ![RowHeaderCell.png](https://support.syncfusion.com/kb/agent/attachment/article/16352/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI0NjA4Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.jXefXC_3Y7xEBqPwU0wFBnNhpZIpb0LHwt9vo9SBnX0)
 [View sample in GitHub](https://github.com/SyncfusionExamples/How-to-display-RowIndex-at-RowHeaderCell-in-SfDataGrid-in-MAUI-DataGrid)
 
 Take a moment to explore this [documentation](https://help.syncfusion.com/maui/datagrid/overview), where you can find more information about Syncfusion .NET MAUI DataGrid (SfDataGrid) with code examples. Please refer to this [link](https://www.syncfusion.com/maui-controls/maui-datagrid) to learn about the essential features of Syncfusion .NET MAUI DataGrid (SfDataGrid).

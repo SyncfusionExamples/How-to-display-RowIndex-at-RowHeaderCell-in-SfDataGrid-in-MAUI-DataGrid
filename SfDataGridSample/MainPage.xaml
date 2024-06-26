@@ -16,6 +16,15 @@
                            GridLinesVisibility="Both"
                            HeaderGridLinesVisibility="Both"
                            ItemsSource="{Binding Employees}">
+
+        <syncfusion:SfDataGrid.Columns>
+            <syncfusion:DataGridNumericColumn MappingName="EmployeeID" Format="#"
+                                              HeaderText="Employee ID" />
+            <syncfusion:DataGridTextColumn MappingName="Name"
+                                           HeaderText="Name" />
+            <syncfusion:DataGridTextColumn MappingName="Title"
+                                           HeaderText="Title" />
+        </syncfusion:SfDataGrid.Columns>
         <syncfusion:SfDataGrid.RowHeaderTemplate>
             <DataTemplate>
                 <Label Text="{Binding ID}" Background="AliceBlue" HorizontalTextAlignment = "Center" VerticalTextAlignment = "Center" />
